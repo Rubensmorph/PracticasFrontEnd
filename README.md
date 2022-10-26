@@ -1,3 +1,4 @@
+![Modelo](https://user-images.githubusercontent.com/114200543/198056506-d32285de-4383-4ee4-a8c3-8d21fd1b070f.png)
 # PracticasFrontEnd
 Repositorio con todas las actividades de FrontEnd
 
@@ -29,4 +30,5 @@ El dueño de Artesanias Gómez G (Nombre provicional) necesita un sitio web dond
 
 
 ## **Modelo**
+![Modelo](https://user-images.githubusercontent.com/114200543/198056691-a8740921-0288-4934-ac40-3091738ec267.png)
 
