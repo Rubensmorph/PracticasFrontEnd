@@ -1,4 +1,4 @@
-![Modelo](https://user-images.githubusercontent.com/114200543/198056506-d32285de-4383-4ee4-a8c3-8d21fd1b070f.png)
+
 # PracticasFrontEnd
 Repositorio con todas las actividades de FrontEnd
 
