@@ -44,3 +44,12 @@ El dueño de Artesanias Gómez G (Nombre provicional) necesita un sitio web dond
 ## **Público Objetivo**
 ![PublicoObjetivo](https://user-images.githubusercontent.com/114200543/198077953-40f96bd1-5faa-4d88-88e7-6ac47ccce298.jpg)
 
+## **Wireframe UX**
+![New Wireframe 1](https://user-images.githubusercontent.com/114200543/198141374-9d46f553-01dc-4373-855e-bd6b9dfbb46c.png)
+![New Wireframe 2](https://user-images.githubusercontent.com/114200543/198141399-57dfa9f1-ad6a-4094-9d85-9e49923672bb.png)
+![New Wireframe 3](https://user-images.githubusercontent.com/114200543/198141419-5512dfe5-7a2b-4b8d-95f9-8c0b0a4b416f.png)
+![New Wireframe 4](https://user-images.githubusercontent.com/114200543/198141439-f2b58816-838a-4763-a021-5b5bf08e67cd.png)
+![New Wireframe 5](https://user-images.githubusercontent.com/114200543/198141469-e79d3759-d888-455c-a9ea-9501a16e6ebb.png)
+![New Wireframe 6](https://user-images.githubusercontent.com/114200543/198141489-b3bb265b-1741-47a7-a2ca-e10c308e1ebf.png)
+
+
