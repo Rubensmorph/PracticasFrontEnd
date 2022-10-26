@@ -28,3 +28,5 @@ El dueño de Artesanias Gómez G (Nombre provicional) necesita un sitio web dond
 - Alertas sobre cuando el stock se acerque a 0.
 
 
+## **Modelo**
+
