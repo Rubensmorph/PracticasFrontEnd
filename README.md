@@ -16,7 +16,7 @@ El dueño de Artesanias Gómez G (Nombre provicional) necesita un sitio web dond
 - Un registro dentro de la página con su respectivo usuario y contraseña.
 - Una experiecia visual y agradable con varias imagenes y detalles de los articulos.
 - Un area de personalización para modificar color, patron y diseño de los articulos.
-- Deberáaparecer un tiempo estimado de entrega diferente por cambiar el diseño y color.
+- Deberá aparecer un tiempo estimado de entrega diferente por cambiar el diseño y color.
 - Un cálculo del costo del articulo variable por el color y diseño.
 - Un area de comentarios sobre cada articulo vendido.
 - Un area de propuestas y recomendaciones para mejorar los productos.
