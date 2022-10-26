@@ -33,7 +33,8 @@ El dueño de Artesanias Gómez G (Nombre provicional) necesita un sitio web dond
 ![Modelo](https://user-images.githubusercontent.com/114200543/198056691-a8740921-0288-4934-ac40-3091738ec267.png)
 
 ## **Buyer Persona**
-![Buyer Persona](https://user-images.githubusercontent.com/114200543/198094333-571a4fb3-5f51-438f-b2c5-36e16ae89e93.jpg)
+![Buyer Persona3](https://user-images.githubusercontent.com/114200543/198094687-eaee9850-665e-4cab-8762-9634ab2990a6.jpg)
+
 
 
 
